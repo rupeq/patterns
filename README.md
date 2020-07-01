@@ -7,5 +7,5 @@
 - builder
 - singleton
 
-## Decorator
+## Structural
 - decorator
