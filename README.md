@@ -2,6 +2,7 @@
 
 ## Behavioral
 - observer
+- visitor
 
 ## Creational
 - builder
@@ -12,3 +13,7 @@
 
 ## Structural
 - decorator
+- proxy 
+- adapter
+- bridge 
+- composite
