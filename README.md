@@ -3,6 +3,9 @@
 ## Behavioral
 - observer
 - visitor
+- iterator
+- chain of responsibility
+- strategy
 
 ## Creational
 - builder
